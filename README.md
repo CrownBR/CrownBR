@@ -27,13 +27,13 @@ Estou formando em Ciência da Computação Anhembi Morumbi, gosto de projetos de
 
 ## 🚧 Tecnologias que estou aprendendo
 
-<div align="center">
-<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java"/> 
+<div align="center"> 
 <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
 <img src="https://img.shields.io/badge/Cloud-0A66C2?style=for-the-badge&logo=cloud&logoColor=white" alt="Cloud"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
 <img src="https://img.shields.io/badge/QA_&_Testes-FF6F61?style=for-the-badge" alt="QA & Testes"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
 
 
 </div>
