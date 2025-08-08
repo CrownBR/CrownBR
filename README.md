@@ -38,6 +38,14 @@ Estou formando em Ciência da Computação Anhembi Morumbi, gosto de projetos de
 </div>
 
 ---
+## 📚 Idiomas em Aprendizado
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Inglês_Intermediário-blue?style=for-the-badge&logoColor=white" alt="Inglês Intermediário"/>
+</div>
+
+
+---
 
 ## 🌐 Conecte-se comigo!
 
