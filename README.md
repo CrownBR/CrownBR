@@ -1,14 +1,14 @@
-Fernando A.C.Silva 👩‍💻
+# Fernando A.C.Silva 👩‍💻
 
 Desenvolvedor(a) Java | Spring Framework | Back-end | Git
 
-Focadao em backend, apaixonadao por desafios e inovação 
+Focadão em backend, apaixonadão por desafios e inovação  
 
 ---
 
 ## 🚀 Futuro Dev
 
-Estou formando em Ciência da Computação Anhembi Morumbi, gosto de projetos desafiadores que me impulsionam a aprender novas tecnologias e também a aprimorar o que já sei. me considero um estudante dedicado a continuar adquirindo novos conhecimentos e aplicar minhas habilidades em Java e back-end e Front. Já tive contato com Banco de Dados "MySQL, PostgreSQL", Python e também estou explorando o mundo de Cloud. Sempre em busca de evolução!
+Estou formando em Ciência da Computação Anhembi Morumbi, gosto de projetos desafiadores que me impulsionam a aprender novas tecnologias e também a aprimorar o que já sei. Me considero um estudante dedicado a continuar adquirindo novos conhecimentos e aplicar minhas habilidades em Java, back-end e front. Já tive contato com Banco de Dados "MySQL, PostgreSQL", Python e também estou explorando o mundo de Cloud. Sempre em busca de evolução!
 
 ---
 
@@ -34,8 +34,7 @@ Estou formando em Ciência da Computação Anhembi Morumbi, gosto de projetos de
 <img src="https://img.shields.io/badge/QA_&_Testes-FF6F61?style=for-the-badge" alt="QA & Testes"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-
-
+<img src="https://img.shields.io/badge/Inglês_Intermediário-purple?style=for-the-badge&logoColor=white" alt="Inglês Intermediário"/>
 </div>
 
 ---
